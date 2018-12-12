@@ -8,7 +8,6 @@ The overview is :
 Read more on [Conversational AI](https://azure.microsoft.com/en-us/blog/conversational-bots-deep-dive-what-s-new-with-the-general-availability-of-azure-bot-service-and-language-understanding/
 )
 
-
 ## Brainstorming
 
 You can start brainstorming your ideas with your team (or on your own) and ideally decide on the following below, before you start "building" the chatbot.
@@ -30,9 +29,8 @@ You can start brainstorming your ideas with your team (or on your own) and ideal
   - Needs to make sure that the right emotional positing and personality of the bot comes through in the answers.
 
 ### The Bot Architecture
-Information Chatbot Architecte can be found [here](https://azure.microsoft.com/en-us/solutions/architecture/information-chatbot/
+An example of Information Chatbot Architecture can be found [here](https://azure.microsoft.com/en-us/solutions/architecture/information-chatbot/
 )
-
 
 ## More resources
 - Principles of bot design: [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0)
