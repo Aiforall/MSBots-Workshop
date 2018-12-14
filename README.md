@@ -7,7 +7,10 @@ Please go through the [intro](https://github.com/Aiforall/SimpleBot/blob/master/
 then you can build you first bot application below
 [An example of Information Chatbot Architecture](https://azure.microsoft.com/en-us/solutions/architecture/information-chatbot/
 )
-### 1st first - The qnA bot - Simple with zero code (1 hour)
+
+## Your 1st first bot application
+
+### The qnA bot - Simple with zero code (1 hour)
 [Refer the architecture document](https://github.com/Aiforall/SimpleBot/blob/master/BotArchitecture.docx)
 Click on the view raw if the link doesn't open, to download the document.
 
