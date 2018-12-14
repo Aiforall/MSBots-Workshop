@@ -1,13 +1,12 @@
 # SimpleBot
-Microsoft Azure Bot 
+An example of a simple Microsoft Azure Bot using the Bot Framework.
 
 ### The Bot Architecture
-An example of Information Chatbot Architecture can be found [here](https://azure.microsoft.com/en-us/solutions/architecture/information-chatbot/
+[An example of Information Chatbot Architecture](https://azure.microsoft.com/en-us/solutions/architecture/information-chatbot/
 )
 ### The qnA bot - Simple with zero code (1 hour)
-Refer the architecture document - 
-[here](https://github.com/Aiforall/SimpleBot/blob/master/BotArchitecture.docx)
-View raw if the link is not opening the document
+[Refer the architecture document](https://github.com/Aiforall/SimpleBot/blob/master/BotArchitecture.docx)
+Click on the view raw if the link doesn't open, to download the document.
 
 ### The LUIS bot - Complex needs Visual Studio and C# skills
 [Add natural language understanding to your bot](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-v4-luis?view=azure-bot-service-4.0&tabs=cs)
