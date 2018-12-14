@@ -28,9 +28,7 @@ You can start brainstorming your ideas with your team (or on your own) and ideal
 - The Parent:
   - Needs to make sure that the right emotional positing and personality of the bot comes through in the answers.
 
-### The Bot Architecture
-An example of Information Chatbot Architecture can be found [here](https://azure.microsoft.com/en-us/solutions/architecture/information-chatbot/
-)
+
 
 ## More resources
 - Principles of bot design: [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0)
