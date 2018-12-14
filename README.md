@@ -12,7 +12,8 @@ View raw if the link is not opening the document
 ### The LUIS bot - Complex needs Visual Studio and C# skills
 [Add natural language understanding to your bot](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-v4-luis?view=azure-bot-service-4.0&tabs=cs)
 
-### The information bot
+### Using Dispatch to add multiple features - (2-3 days)
+[Use multiple LUIS and QnA models](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=csharp)
 
 ## More resources
 - Principles of bot design: [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0)
